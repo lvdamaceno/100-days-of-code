@@ -16,7 +16,7 @@
 
 **Link to work:** TO DO
 
-### Day 3: July 10, 2021
+### Day 3: July 11, 2021
 
 **Today's Progress**: I started a project in python, a Telegram bot, it will have few functions at first, the most important will be capturing weight loss and setting weight loss goals, to later build a graph with this data.
 
