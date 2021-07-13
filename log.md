@@ -24,3 +24,11 @@
 
 **Link to work:** https://github.com/lvdamaceno/py_weight-_watcher/blob/main/bot.py
 **Link to work:** https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-–-Your-first-Bot
+
+### Day 4: July 12, 2021
+
+**Today's Progress:** Today I continued the program I started on day 2, the code to validate credit card numbers. I'm having trouble inverting the number, the program is ugly now, but it can invert a number with five digits. It was fun to learn how to use the debugger. Tomorrow I'll try to implement a loop to make the calculations.
+
+**Thoughts:** I need to comprehend more about logic and algorithm. The task is not difficult, but to take the ideas from my mind and implement is.
+
+**Link to work:** TO DO
