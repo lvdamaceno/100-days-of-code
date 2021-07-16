@@ -32,3 +32,11 @@
 **Thoughts:** I need to comprehend more about logic and algorithm. The task is not difficult, but to take the ideas from my mind and implement is.
 
 **Link to work:** TO DO
+
+### Day 5: July 15, 2021
+
+**Today's Progress:** Today I started the second week of CS50 class, unfortunately the last two days had unforeseen events related to my job, it happens, I'll put two more days in the 100-day goal.
+
+**Thoughts:** 
+
+**Link to work:** TO DO
