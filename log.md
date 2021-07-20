@@ -49,3 +49,11 @@ CS50's IDE has features that make our lives easier when coding, such as the make
 **Thoughts:** 
 
 **Link to work:** TO DO
+
+### Day 8: July 19, 2021
+
+**Today's Progress:** I completed the Basic HTML and HTML5 chapter of the Responsive Web Design course at #freecodecamp
+
+**Thoughts:** Still learning how to organize my time
+
+**Link to work:** https://github.com/lvdamaceno/freecodecamp/blob/main/Responsive%20Web%20Design/cat-app.html
