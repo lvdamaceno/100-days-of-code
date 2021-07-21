@@ -33,8 +33,7 @@
 
 ### Day 6: July 16, 2021
 
-**Today's Progress:** 
-CS50's IDE has features that make our lives easier when coding, such as the make command. Today I learned how to compile a program in C using clang, and its command-line arguments. Unlike make, clang needs various information such as the result file name, the used libraries, among others, which can quickly get tedious for the programmer. Make automatize all these steps. It would be interesting to try to create something like make to use on my computer.
+**Today's Progress:** CS50's IDE has features that make our lives easier when coding, such as the make command. Today I learned how to compile a program in C using clang, and its command-line arguments. Unlike make, clang needs various information such as the result file name, the used libraries, among others, which can quickly get tedious for the programmer. Make automatize all these steps. It would be interesting to try to create something like make to use on my computer.
 
 ### Day 8: July 19, 2021
 
