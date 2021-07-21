@@ -6,15 +6,11 @@
 
 **Thoughts:** Starting something from scratch and exposing myself is a big step out of my comfort zone.
 
-**Link to work:** TO DO
-
 ### Day 2 July 10, 2021
 
 **Today's Progress**: Today I implement a program to calculate if a credit card number is valid using C and IBM's Hans Peter Luhn algorithm. It didn't finish, I just managed to do the initial part of saying which the brand of the card, the next step is to find out if it is valid or not.
 
 **Thoughts:** I haven't decided yet how and if I'm going to put the codes made from CS50 activities here on github, I'm focusing on solving the activities and learning how to use C, but I'm still going to resolve this to-do in order to link the codes.
-
-**Link to work:** TO DO
 
 ### Day 3: July 11, 2021
 
@@ -31,24 +27,14 @@
 
 **Thoughts:** I need to comprehend more about logic and algorithm. The task is not difficult, but to take the ideas from my mind and implement is.
 
-**Link to work:** TO DO
-
 ### Day 5: July 15, 2021
 
 **Today's Progress:** Today I started the second week of CS50 class, unfortunately the last two days had unforeseen events related to my job, it happens, I'll put two more days in the 100-day goal.
-
-**Thoughts:** 
-
-**Link to work:** TO DO
 
 ### Day 6: July 16, 2021
 
 **Today's Progress:** 
 CS50's IDE has features that make our lives easier when coding, such as the make command. Today I learned how to compile a program in C using clang, and its command-line arguments. Unlike make, clang needs various information such as the result file name, the used libraries, among others, which can quickly get tedious for the programmer. Make automatize all these steps. It would be interesting to try to create something like make to use on my computer.
-
-**Thoughts:** 
-
-**Link to work:** TO DO
 
 ### Day 8: July 19, 2021
 
@@ -57,3 +43,7 @@ CS50's IDE has features that make our lives easier when coding, such as the make
 **Thoughts:** Still learning how to organize my time
 
 **Link to work:** https://github.com/lvdamaceno/freecodecamp/blob/main/Responsive%20Web%20Design/cat-app.html
+
+### Day 9: July 20, 2021
+
+**Today's Progress:** Today I completed 80% of Basic Css at #freeCodeCamp, stopped at the Use RGB to Mix Colors chapter. When I accessed it today, a part of yesterday's progress was lost and I had to do it all over again, which was a little frustrating and wasted my time. I hope that doesn't happen again. CSS looks fun and challenging, unlike all the memes that say it's too hard.
